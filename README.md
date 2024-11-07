@@ -5,8 +5,9 @@
 - ⚡ I have completed multiple projects in serverl fields inlcuding building robotic arms, solar drones, autonomous UAVs, sun-tracking solar towers, AI powered virutal assistants and chatbots, Machine learning algorithms, Deep learning algorithms with Neural network architectures.
 - 🤖 I am mainly working on the fields of Artificial intelligence and Reobotics. 
 - 👀 I’m interested in programming since 2023 and mainly focusing on Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.
+- 🎮I am not biggest gamer I know but i am currently developing a game in my free time inspired by emika games.
 - 🌱 I’m currently learning ROS , and updating my knowledge on C and C++.
-- 📫 You can always through my business E-mail: arkweb.vishwa@gmail.com or linkedin/vishwagw
+- 📫 You can always connect me through my business E-mail: arkweb.vishwa@gmail.com or linkedin/vishwagw you can also DM me on X(twitter): https://twitter.com/vishwagw
 - 🛜 You can catch up with my projects and ideas in my personal website : https://vimukthigw.com
 - 🧑‍💻 i dont use social media, but you can find me on X(Twitter) : https://twitter.com/vishwagw
 

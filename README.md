@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @vishwagw
 - I am I am a 25-year-old aspiring Entrepreneur, student, dropout, learner, and wisdom seeker, a founder, and a wannabe CEO. I am currently living in Australia. But I am a Sri Lankan citizen.
-- I am mainly working on the field of AI and Reobotics. 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  💞️ I’m currently working on two sperative startup ideas including autonomous drones for logistics / deliveries and combining ARtificial intelligence with multi-robotic systems for precise agriculture.
+- 💼 I am the co-foundr and CEO of MAVRICK Aerial and founder of CYBERLIFE agriculture.
+- ⚡ I have completed multiple projects in serverl fields inlcuding building robotic arms, solar drones, autonomous UAVs, sun-tracking solar towers, AI powered virutal assistants and chatbots, Machine learning algorithms, Deep learning algorithms with Neural network architectures.
+- 🤖 I am mainly working on the fields of Artificial intelligence and Reobotics. 
+- 👀 I’m interested in programming since 2023 and mainly focusing on Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.
+- 🌱 I’m currently learning ROS , and updating my knowledge on C and C++.
+- 📫 You can always through my business E-mail: arkweb.vishwa@gmail.com or linkedin/vishwagw
+- 🛜 You can catch up with my projects and ideas in my personal website : https://vimukthigw.com
+- 🧑‍💻 i dont use social media, but you can find me on X(Twitter) : https://twitter.com/vishwagw
 
 <!---
 vishwagw/vishwagw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

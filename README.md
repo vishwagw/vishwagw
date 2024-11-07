@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishwagw
 - I am I am a 25-year-old aspiring Entrepreneur, student, dropout, learner, and wisdom seeker, a founder, and a wannabe CEO. I am currently living in Australia. But I am a Sri Lankan citizen.
 -  💞️ I’m currently working on two sperative startup ideas including autonomous drones for logistics / deliveries and combining ARtificial intelligence with multi-robotic systems for precise agriculture.
-- 💼 I am the co-foundr and CEO of MAVRICK Aerial and founder of CYBERLIFE agriculture.
+- 💼 I am the co-founder and CEO of MAVRICK Aerial and founder of CYBERLIFE agriculture.
 - ⚡ I have completed multiple projects in serverl fields inlcuding building robotic arms, solar drones, autonomous UAVs, sun-tracking solar towers, AI powered virutal assistants and chatbots, Machine learning algorithms, Deep learning algorithms with Neural network architectures.
 - 🤖 I am mainly working on the fields of Artificial intelligence and Reobotics. 
 - 👀 I’m interested in programming since 2023 and mainly focusing on Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vishwagw
+- 👋 Hi, my name is vishwaGw, but you can call me Randy.
 - 🙎‍♂️ I am a 25-year-old self-taught robotics and AI researcher and Entrepreneur/Founder working on two startup ideas simultaneously. I am currently living in Australia. But I am a Sri Lankan citizen.
 -  💞️ I’m currently working on two sperative startup ideas including autonomous drones for logistics / deliveries and combining ARtificial intelligence with multi-robotic systems for precise agriculture.
 - 💼 I am the co-founder and CEO of MAVRICK Aerial and founder of CYBERLIFE agriculture.

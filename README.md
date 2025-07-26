@@ -1,17 +1,10 @@
-- 👋 Hi, my name is vishwaGw, but you can call me Randy.
-- 🙎‍♂️ I am a 26-year-old AI researcher and Entrepreneur/Founder working on two startup ideas simultaneously. I am currently living in Australia. But I am a Sri Lankan citizen.
--  💞️ I’m currently working on two sperative startup ideas; one is building autonomous unmanned vehicles for general/security purposes while other one is building smart Home AI that ca take care / maintain the homes 24/7.
-- 💼 I am the co-founder and CEO of MAVRICK Aerial and founder of Interlink AI.
-- ⚡ I have completed multiple projects in serverl fields inlcuding building robotic arms, solar drones, autonomous UAVs, sun-tracking solar towers, AI powered virutal assistants and chatbots, Machine learning algorithms, Deep learning algorithms with Neural network architectures.
-- 🤖 I am mainly working on the fields of Artificial intelligence and I like to build stuff and profitable companies to share them with the world.
--  📑 I have publish more than 30 articles in my blog site on the topics of AI, Robotics, technology, blockcain. You can visit: https://vimukthigw.com
-- 👀 I’m interested in programming since 2023 and mainly focusing on Artificial Intelligence, Machine Learning, Deep Learning and Neural Networks.
-- 🎮I am not biggest gamer I know but i am currently developing a game in my free time inspired by emika games.
-- 🌱 I’m currently learning ROS , and updating my knowledge on C and C++.
-- 🐍 Python is my favouite programming language for all time.
-- 📫 You can always connect me through my business E-mail: arkweb.vishwa@gmail.com or linkedin/vishwagw you can also DM me on X(twitter): https://twitter.com/vishwagw
-- 🛜 You can catch up with my projects and ideas in my personal website : https://vimukthigw.com
-- 🧑‍💻 i dont use social media, but you can find me on X(Twitter) : https://twitter.com/vishwagw
+I'm an AI and autonomous systems researcher, entrepreneur and enthusiast with nearly two years of experience developing innovative solutions in unmanned vehicle systems, computer vision, and AI-powered assistants. My work spans autonomous drones with real-time obstacle avoidance and precision landing, smart home automation with voice-interactive AI assistants, and advanced applications like facial recognition, emotion detection, and reinforcement learning.
+
+Alongside hands-on development, I co-founded and currently run two AI startups focused on unmanned vehicle systems and intelligent home assistant solutions, aiming to deliver next-generation automation and AI experiences.
+
+In addition to building AI-driven hardware and software solutions, I share my insights through AI-focused blog articles, making complex topics accessible to a broader audience. My passion lies in combining creativity and technology to build intelligent, human-centric solutions that push the boundaries of what’s possible.
+
+I am always eager to collaborate on groundbreaking AI and robotics projects, explore emerging technologies, and contribute to the future of autonomous systems.
 
 <!---
 vishwagw/vishwagw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
